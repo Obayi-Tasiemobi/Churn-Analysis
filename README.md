@@ -18,10 +18,15 @@ This is a financial churn analysis dataset with 2,500 rows and realistic financi
 
 ## Results
 Retail customer segment records the highest number of churns with a total of 170. Forty-seven (47) switched to competitors, 34 churned without a reason, 27 inactive, 32 because of high fees, and 30 because of poor services.
+
 Corporate segment has a total number of 163 churned customers. Thirty (30) switched to competitors, 26 without a reason, 35 inactive, 38 because of high fees, and 34 because of poor services.
+
 SME segment has a total number of 154 churned customers. Thirty (30) switched to competitors, 35 without a reason, 35 inactive, 37 because of high fees, and 27 because of poor services.
+
 Enterprise records the lowest number of churns with a total of 149. Thirty (30) switched to competitors, 35 without reason, 30 inactive, 26 because of high fees, and 28 because of poor services.
+
 The total revenue generated is 13.93bn (13,934,413,936.5). Churned customers contribute 3.57bn (3,574,037,853.67) of the total revenue, causing 25.65% decrease in revenue growth.
+
 Kano and Abuja record the highest number of churns while Lagos has the lowest number
 
 ## Conclusion
