@@ -12,9 +12,9 @@ This is a financial churn analysis dataset with 2,500 rows and realistic financi
 - Is churn affecting revenue growth?
 
 ## KPIs
-Total Customers		2,500
-Active Customers	1,864
-Churned Customers	636
+- Total Customers		2,500
+- Active Customers	1,864
+- Churned Customers	636
 
 ## Results
 Retail customer segment records the highest number of churns with a total of 170. Forty-seven (47) switched to competitors, 34 churned without a reason, 27 inactive, 32 because of high fees, and 30 because of poor services.
